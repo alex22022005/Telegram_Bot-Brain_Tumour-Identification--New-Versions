@@ -34,11 +34,10 @@ Follow these steps to get the project running on your local machine.
 -   An NVIDIA GPU with CUDA installed (highly recommended for training)
 
 #### 2. Clone the Repository
-
+## git clone
 ```bash
-git clone <https://github.com/alex22022005/Telegram_Bot-Brain_Tumour-Identification--New-Versions.git>
+ https://github.com/alex22022005/Telegram_Bot-Brain_Tumour-Identification--New-Versions.git
 
----
 ```
 #### 3. Create a Virtual Environment
 It's highly recommended to use a virtual environment to manage dependencies.
@@ -53,3 +52,4 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 ```
+
