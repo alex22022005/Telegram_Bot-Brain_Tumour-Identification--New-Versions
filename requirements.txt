@@ -1,0 +1,5 @@
+python-telegram-bot
+ultralytics
+google-generativeai
+python-dotenv
+Pillow

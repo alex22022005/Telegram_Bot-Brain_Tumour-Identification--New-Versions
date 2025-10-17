@@ -1,0 +1,15 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: brain-tumor-detection-6prsv
+  url: https://universe.roboflow.com/workspace-kjrwm/brain-tumor-detection-6prsv/dataset/1
+  version: 1
+  workspace: workspace-kjrwm
+test: ../test/images
+train: ../train/images
+val: ../valid/images
